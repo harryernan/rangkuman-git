@@ -1,0 +1,4 @@
+Rangkuman Git
+-Pengenalan terhadap git
+-cara menginisialisasi repo
+-cara menambahkan file ke staging area 
