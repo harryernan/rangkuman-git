@@ -3,3 +3,4 @@ Rangkuman Git
 -cara menginisialisasi repo
 -cara menambahkan file ke staging area
 -fundamental git
+-mempelajari branch
